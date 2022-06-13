@@ -61,7 +61,7 @@ div.center{
      <p>I am a Ph.D. student in Mathematics at Northwestern University. I work under the wonderful supervision of <a href="https://sites.math.northwestern.edu/~auffing/" target="_blank">Antonio Auffinger</a>. From Fall 2022 onward I will be an NSF postdoctoral fellow at the Courant institute at NYU.</p>
 	<p> My work is in probability theory, and more specifically, in random matrices and spin glass theory.  </p>
 	<p>
-	</p><h4><a href="./CV-pax.pdf" target="_blank">Curriculum vitae</a></h4>
+	</p><h4><a href="./cv-pax.pdf" target="_blank">Curriculum Vitae</a></h4>
 
 	<p>
 	</p><h4>Contact:</h4>
