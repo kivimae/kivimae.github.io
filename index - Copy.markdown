@@ -5,8 +5,8 @@
 layout: home
 ---
 
-<meta name="description" content="Pax Kivimae's Website">
-<meta name="keywords" content="pax kivimae math, pax kivimae, pax kivimae northwestern, kivimae, math, probability, spin glass, random matrices, nyu, courant, cims">
+<meta name="description" content="Pax Kivimae Webpage">
+<meta name="keywords" content="pax kivimae math, pax kivimae, pax kivimae northwestern, kivimae, math, probability, spin glass, random matrices">
 
 <style>
 body {
@@ -58,14 +58,14 @@ div.center{
   </div>
 
   <div class="column">
-     <p>I am an NSF postdoctoral fellow at the Courant Institute of Mathematical Sciences at NYU, sponsored by Professor <a href="https://math.nyu.edu/~benarous/" target="_blank">Gérard Ben Arous</a>. Before this, I recieved my Ph.D in Mathematics from Nothwestern University, working with Professor <a href="https://sites.math.northwestern.edu/~auffing/" target="_blank">Antonio Auffinger</a>.</p>
+     <p>I am a Ph.D. student in Mathematics at Northwestern University. I work under the wonderful supervision of <a href="https://sites.math.northwestern.edu/~auffing/" target="_blank">Antonio Auffinger</a>. From Fall 2022 onward I will be an NSF postdoctoral fellow at the Courant institute at NYU.</p>
 	<p> My work is in probability theory, and more specifically, in random matrices and spin glass theory.  </p>
 	<p>
 	</p><h4><a href="./cv-pax.pdf" target="_blank">Curriculum Vitae</a></h4>
 
 	<p>
 	</p><h4>Contact:</h4>
-		<a href="mailto:pax.kivimae@cims.nyu.edu">pax.kivimae@cims.nyu.edu</a> <br>
+		<a href="mailto:kivimae@math.northwestern.edu">kivimae@math.northwestern.edu</a> <br>
 	<p></p>
   </div>
 </div> 
