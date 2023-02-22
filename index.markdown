@@ -6,7 +6,7 @@ layout: home
 ---
 
 <meta name="description" content="Pax Kivimae's Website">
-<meta name="keywords" content="pax kivimae math, pax kivimae, pax kivimae northwestern, northwestern, kivimae, math, probability, spin glass, random matrices, nyu, courant, cims, viktor burghardt, burghardt, kyle casey>
+<meta name="keywords" content="pax kivimae math, pax kivimae, pax kivimae northwestern, northwestern, kivimae, math, probability, spin glass, random matrices, nyu, courant, cims">
 
 <style>
 body {
