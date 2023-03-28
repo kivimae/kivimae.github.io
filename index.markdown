@@ -72,7 +72,7 @@ div.center{
 <br>
     	<h3>  Preprints:</h3>
 	<ol>
-		<li> <h4><a href="https://arxiv.org/abs/212.11452" target="_blank">Pax Kivimae, <em>Concentration of Equilibria and Relative Instability in Disordered Non-Relaxational Dynamics</em></a></h4>
+		<li> <h4><a href="https://arxiv.org/abs/2212.11452" target="_blank">Pax Kivimae, <em>Concentration of Equilibria and Relative Instability in Disordered Non-Relaxational Dynamics</em></a></h4>
 		<li> <h4><a href="https://arxiv.org/abs/2107.13138" target="_blank">Pax Kivimae, <em>The Ground State Energy and Concentration of Complexity in Spherical Bipartite Models</em></a></h4>
 		<li> <h4><a href="https://arxiv.org/abs/2012.09969" target="_blank">Pax Kivimae, <em>Gaussian Multiplicative Chaos for Gaussian Orthogonal and Symplectic Ensembles</em></a></h4>
 		</li><li> <h4><a href="https://arxiv.org/abs/1908.07512" target="_blank">Pax Kivimae, <em>Critical Fluctuations for The Spherical Sherrington-Kirkpatrick Model in an External Field</em></a></h4><br>
