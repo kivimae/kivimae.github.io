@@ -72,6 +72,13 @@ div.center{
 <br>
     	<h3>  Preprints:</h3>
 	<ol>
+<<<<<<< HEAD
+=======
+		<li> <h4><a href="https://arxiv.org/abs/2410.22601" target="_blank">Gérard Ben Arous, Pax Kivimae, <em>The Larkin Mass and Replica Symmetry Breaking in the Elastic Manifold</em></a></h4>
+		<li> <h4><a href="https://arxiv.org/abs/2410.19094" target="_blank">Gérard Ben Arous, Pax Kivimae, <em>The Free Energy of the Elastic Manifold
+</em></a></h4>
+		<li> <h4><a href="https://arxiv.org/abs/2410.07478" target="_blank">Pax Kivimae, <em>Moments of Characteristic Polynomials of Non-Symmetric Random Matrices</em></a></h4>
+>>>>>>> 887b91d (2024 update)
 		<li> <h4><a href="https://arxiv.org/abs/2212.11452" target="_blank">Pax Kivimae, <em>Concentration of Equilibria and Relative Instability in Disordered Non-Relaxational Dynamics</em></a></h4>
 		<li> <h4><a href="https://arxiv.org/abs/2107.13138" target="_blank">Pax Kivimae, <em>The Ground State Energy and Concentration of Complexity in Spherical Bipartite Models</em></a></h4>
 		<li> <h4><a href="https://arxiv.org/abs/2012.09969" target="_blank">Pax Kivimae, <em>Gaussian Multiplicative Chaos for Gaussian Orthogonal and Symplectic Ensembles</em></a></h4>
