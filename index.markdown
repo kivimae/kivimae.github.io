@@ -55,9 +55,7 @@ div.center{
   </div>
 
   <div class="column">
-     <p>I am an assistant professor in the Department of Mathematics at the University of Colorado, Colorado Springs. 
-
-Before that, I was NSF postdoctoral fellow at the Courant Institute of Mathematical Sciences at NYU, and before that, I recieved my Ph.D in Mathematics from Nothwestern University, working with Professor <a href="https://sites.math.northwestern.edu/~auffing/" target="_blank">Antonio Auffinger</a>.</p>
+     <p>I am an assistant professor in the Department of Mathematics at the University of Colorado, Colorado Springs. I recieved my Ph.D in Mathematics from Nothwestern University, working with Professor <a href="https://sites.math.northwestern.edu/~auffing/" target="_blank">Antonio Auffinger</a>.</p>
 	<p> My research is in probability theory and mathematical physics. More specifically, in random matrices, spin glass theory, and random media.  </p>
 	<p>
 	</p><h4><a href="./cv-pax.pdf" target="_blank">Curriculum Vitae</a></h4>
@@ -68,5 +66,3 @@ Before that, I was NSF postdoctoral fellow at the Courant Institute of Mathemati
 	<p></p>
   </div>
 </div> 
-
-</li>
