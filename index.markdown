@@ -1,12 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
 
 <meta name="description" content="Pax Kivimae's Website">
-<meta name="keywords" content="pax kivimae math, pax kivimae, pax kivimae northwestern, northwestern, kivimae, math, probability, spin glass, random matrices, nyu, courant, cims">
+<meta name="keywords" content="pax kivimae math, pax kivimae, pax kivimae northwestern, northwestern, kivimae, pax, math, probability, spin glass, random matrices, random media, nyu, courant, cims, uccs, colorado, colorado springs, university of colorado colorado springs">
 
 <style>
 body {
@@ -58,27 +55,18 @@ div.center{
   </div>
 
   <div class="column">
-     <p>I am an NSF postdoctoral fellow at the Courant Institute of Mathematical Sciences at NYU. Before this, I recieved my Ph.D in Mathematics from Nothwestern University, working with Professor <a href="https://sites.math.northwestern.edu/~auffing/" target="_blank">Antonio Auffinger</a>.</p>
-	<p> My work is in probability theory, and more specifically, in random matrices and spin glass theory.  </p>
+     <p>I am an assistant professor in the Department of Mathematics at the University of Colorado, Colorado Springs. 
+
+Before that, I was NSF postdoctoral fellow at the Courant Institute of Mathematical Sciences at NYU, and before that, I recieved my Ph.D in Mathematics from Nothwestern University, working with Professor <a href="https://sites.math.northwestern.edu/~auffing/" target="_blank">Antonio Auffinger</a>.</p>
+	<p> My research is in probability theory and mathematical physics. More specifically, in random matrices, spin glass theory, and random media.  </p>
 	<p>
 	</p><h4><a href="./cv-pax.pdf" target="_blank">Curriculum Vitae</a></h4>
 
 	<p>
 	</p><h4>Contact:</h4>
-		<a href="mailto:pax.kivimae@cims.nyu.edu">pax.kivimae@cims.nyu.edu</a> <br>
+		pkivimae ⊕ uccs . edu
 	<p></p>
   </div>
 </div> 
-<br>
-    	<h3>  Preprints:</h3>
-	<ol>
-		<li> <h4><a href="https://arxiv.org/abs/2410.22601" target="_blank">Gérard Ben Arous, Pax Kivimae, <em>The Larkin Mass and Replica Symmetry Breaking in the Elastic Manifold</em></a></h4>
-		<li> <h4><a href="https://arxiv.org/abs/2410.19094" target="_blank">Gérard Ben Arous, Pax Kivimae, <em>The Free Energy of the Elastic Manifold
-</em></a></h4>
-		<li> <h4><a href="https://arxiv.org/abs/2410.07478" target="_blank">Pax Kivimae, <em>Moments of Characteristic Polynomials of Non-Symmetric Random Matrices</em></a></h4>
-		<li> <h4><a href="https://arxiv.org/abs/2212.11452" target="_blank">Pax Kivimae, <em>Concentration of Equilibria and Relative Instability in Disordered Non-Relaxational Dynamics</em></a></h4>
-		<li> <h4><a href="https://arxiv.org/abs/2107.13138" target="_blank">Pax Kivimae, <em>The Ground State Energy and Concentration of Complexity in Spherical Bipartite Models</em></a></h4>
-		<li> <h4><a href="https://arxiv.org/abs/2012.09969" target="_blank">Pax Kivimae, <em>Gaussian Multiplicative Chaos for Gaussian Orthogonal and Symplectic Ensembles</em></a></h4>
-		</li><li> <h4><a href="https://arxiv.org/abs/1908.07512" target="_blank">Pax Kivimae, <em>Critical Fluctuations for The Spherical Sherrington-Kirkpatrick Model in an External Field</em></a></h4><br>
 
-	</li>
+</li>
