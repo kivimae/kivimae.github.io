@@ -55,8 +55,8 @@ div.center{
   </div>
 
   <div class="column">
-     <p>I am an assistant professor in the Department of Mathematics at <a href="https://math.uccs.edu/" target="_blank">UCCS</a>. </p> 
-    <p> I recieved my Ph.D in Mathematics from Nothwestern University, working with the wonderful Professor <a href="https://sites.math.northwestern.edu/~auffing/" target="_blank">Antonio Auffinger</a>.</p>
+     <p>I am an assistant professor in the department of mathematics at <a href="https://math.uccs.edu/" target="_blank">UCCS</a>. </p> 
+    <p> I recieved my Ph.D in mathematics from Nothwestern University, working with the wonderful <a href="https://sites.math.northwestern.edu/~auffing/" target="_blank">Antonio Auffinger</a>.</p>
 	<p> My research is in probability theory, mathematical physics, and statistical physics. More specifically, I am interested in problems in spin glass theory, random matrix theory, random media and disordered systems.  </p>
 	<p>
 	</p><h4><a href="./cv-pax.pdf" target="_blank">Curriculum Vitae</a></h4>
