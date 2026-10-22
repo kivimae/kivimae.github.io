@@ -1,0 +1,49 @@
+#main {
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 3%;
+    font-family: "Arial", sans-serif;
+    font-size: 14px;
+    line-height: 150%;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.column {
+    flex: 47 1 300px;
+}
+
+.column + .column {
+    flex: 57 1 340px;
+}
+
+.column img {
+    width: 100%;
+    height: auto;
+}
+
+.site-header {
+    border-top: none;
+    border-bottom: none;
+}
+
+.wrapper {
+    max-width: 1020px;
+}
+
+.site-header .wrapper {
+    text-align: center;
+}
+
+.site-title {
+    float: none;
+}
+
+.site-nav {
+    display: none;
+}
